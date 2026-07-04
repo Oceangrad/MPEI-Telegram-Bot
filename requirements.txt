@@ -1,0 +1,3 @@
+aiogram==3.29.1
+psycopg2==2.9.12
+Requests==2.34.2
