@@ -85,7 +85,7 @@ You can find ```host``` and ```port``` at properties of Postgres16 server<br>
 ```user``` and ```password``` properties are login props for Postgres16 (which you put while installing postgres)<br>
 **Database properties should be ready for now**<br>
 
-Last thing to configure is ```token``` at [SECRET] section. It's a Bot Token for telegram.<br>
+Last thing to configure is ```token``` at ```[SECRET]``` section. It's a Bot Token for telegram.<br>
 To get a bot token go to your Telegram App and send a message to a @botfather and send the ```/new_bot``` command. Then follow it's instruction.<br>
 In the end you should get your Bot Token from @botfather which you should put into ```token``` property of ```config.ini``` file.
 
