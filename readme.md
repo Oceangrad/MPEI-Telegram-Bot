@@ -94,7 +94,7 @@ In the end you should get your Bot Token from @botfather which you should put in
 #### Now that you followed all of these instruction we can start this bot ####
 **(Note that if you skipped some of the instruction this bot is NOT going to work correctly)**
 
-To start the bot simply open a command line inside bot directory and put ```python main.py``` command.<br>
+To start the bot simply open a command line inside bot directory and put ```python app.py``` command.<br>
 
 The bot should launch correctly.
 Now go to Telegram App and send a ```/start``` message to your bot.

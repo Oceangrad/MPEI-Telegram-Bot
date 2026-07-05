@@ -12,7 +12,7 @@ DEFAULT_CONFIG = config.DEFAULT_CONF
 
 # Инициализация подключения к БД
 dbquery.connect()
-# dasf
+
 # Инициализация бота и диспетчера
 bot = Bot(token=config.SECRET['token'])
 dp = Dispatcher()
